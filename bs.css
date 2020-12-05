@@ -1,0 +1,28 @@
+.red {
+    background-color: red;
+    height: 1080px;
+}
+
+.blue {
+    background-color: blue;
+    height: 1080px;
+}
+
+.green {
+    background-color: green;
+    height: 1080px;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 1080px;
+}
+
+.container {
+    height: 1080px;
+
+}
+
+.row {
+    height: 1080px;
+}
