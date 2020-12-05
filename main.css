@@ -1,8 +1,8 @@
 body{
-    background-color: black;
+    background-color: blue;
 }
 @media only screen and (orientation: landscape) {
     body {
-        background-color: white;
+        background-color: red;
     }
 }
